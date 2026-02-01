@@ -6,6 +6,8 @@ bundle:
 
 includes:
   - bundle: git+https://github.com/anokye-labs/amplifier-bundle-pwsh-dev@main
+  - bundle: git+https://github.com/colombod/amplifier-bundle-deepwiki@main
+  - bundle: git+https://github.com/colombod/amplifier-bundle-perplexity@main
 ---
 
 # Hoop Windows Development Bundle
